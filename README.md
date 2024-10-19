@@ -2,7 +2,7 @@
 # MMM-DailyStoic
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/dfdf5ea7-afc0-475d-9e40-90491b758cb7" alt="Alt text" width="300">
+  <img src="https://github.com/user-attachments/assets/dfdf5ea7-afc0-475d-9e40-90491b758cb7" alt="Alt text" width="500">
 </div>
 
 **MMM-DailyStoic** is a MagicMirror² module that displays daily quotes from Stoic philosophy. It fetches quotes from [Daily Stoic](https://dailystoic.pl/quote/text_pl.json) and [Daily Stoic (EN)](https://dailystoic.pl/quote/text_en.json) and updates the display periodically.
