@@ -14,7 +14,7 @@
 1. Clone the repository into your `modules` folder of your MagicMirror² setup:
     ```bash
     cd ~/MagicMirror/modules
-    git clone https://github.com/yourusername/MMM-DailyStoic.git
+    git clone https://github.com/SmolinskiP/MMM-DailyStoic.git
     ```
 
 2. Navigate to the new directory:
