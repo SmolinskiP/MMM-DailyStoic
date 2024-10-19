@@ -68,4 +68,4 @@ To use this module, add the following configuration to your `config.js` file in 
 - [request](https://www.npmjs.com/package/request): A simplified HTTP request client.
 
 ## Support
-If you encounter any issues, feel free to submit an issue on the [GitHub page](https://github.com/yourusername/MMM-DailyStoic/issues).
+If you encounter any issues, feel free to submit an issue on the [GitHub page](https://github.com/SmolinskiP/MMM-DailyStoic/issues).
