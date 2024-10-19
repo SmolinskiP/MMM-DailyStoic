@@ -1,7 +1,6 @@
 
 # MMM-DailyStoic
 
-![screenshot](https://github.com/user-attachments/assets/dfdf5ea7-afc0-475d-9e40-90491b758cb7)
 <div align="center">
   <img src="https://github.com/user-attachments/assets/dfdf5ea7-afc0-475d-9e40-90491b758cb7" alt="Alt text" width="300">
 </div>
