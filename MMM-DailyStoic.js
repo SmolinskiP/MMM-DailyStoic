@@ -1,7 +1,7 @@
 Module.register("MMM-DailyStoic", {
     defaults: {
-        updateInterval: 6 * 60 * 60 * 1000,  // Aktualizacja co 24 godziny
-        url: "https://dailystoic.com/quote.json",  // URL do JSON-a
+        updateInterval: 6 * 60 * 60 * 1000,
+        url: "https://dailystoic.pl/quote/text_en.json",
         showTitle: true,
         showQuote: true,
         showDescription: true
