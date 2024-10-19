@@ -1,0 +1,19 @@
+.bright {
+    color: #fff;
+}
+
+.large {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.medium {
+    font-size: 18px;
+    font-style: italic;
+    color: #aaaaaa;
+}
+
+.small {
+    font-size: 16px;
+    color: #aaaaaa;
+}
