@@ -51,7 +51,7 @@ To use this module, add the following configuration to your `config.js` file in 
         showDescription: true,               // Show the description or explanation
         url: "https://dailystoic.pl/quote/text_pl.json" // URL to fetch Polish quote by default
     }
-}
+},
 ```
 
 ### Configuration Options
