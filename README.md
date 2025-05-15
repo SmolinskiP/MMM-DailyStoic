@@ -40,7 +40,7 @@
 
 To use this module, add the following configuration to your `config.js` file in the MagicMirror² directory:
 
-```javascript
+```js
 {
     module: "MMM-DailyStoic",
     position: "top_center", // Choose any region
